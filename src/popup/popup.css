@@ -1,0 +1,41 @@
+body {
+    min-width: 300px;
+}
+
+.btn {
+    font-size: 1rem;
+    margin-top: 5px;
+    color: #fff;
+    background-color: #1fc6b6;
+}
+
+#header {
+    width: 100%;
+    font-weight: 600;
+    text-align: center;
+    padding: 15px 0;
+    color: #fff;
+    background-color: #1fc6b6;
+    margin-bottom: 15px;
+}
+
+#content {
+    margin-left: 15px;
+}
+
+.checkboxes {
+    margin: 0 0 10px 15px;
+}
+
+p {
+    font-weight: 600;
+    margin-bottom: 0 !important;
+}
+
+.courier {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.not {
+    font-size: 5px;
+}
