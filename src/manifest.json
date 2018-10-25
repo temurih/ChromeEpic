@@ -26,6 +26,13 @@
                 "http://*.github.com/*"
             ],
             "js": ["content/githubScript.js"]
+        },
+        {
+            "matches": [
+                "https://*.waffle.io/*",
+                "http://*.waffle.io/*"
+            ],
+            "js": ["content/waffleScript.js"]
         }
     ],
 
