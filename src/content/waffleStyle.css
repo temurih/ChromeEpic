@@ -1,79 +1,79 @@
-html.ng-scope.hafiz .modal.detail-modal .modal-content .modal-body {
+html.hafiz .modal.detail-modal .modal-content .modal-body {
     background-color: #343434;
     color: #fefefe;
 }
 
-html.ng-scope.hafiz .modal.detail-modal .modal-content .modal-body .top {
+html.hafiz .modal.detail-modal .modal-content .modal-body .top {
     background-color: #343434;
 }
 
-html.ng-scope.hafiz .modal.detail-modal .modal-content .option-button {
+html.hafiz .modal.detail-modal .modal-content .option-button {
     color: #fefefe;
 }
 
-html.ng-scope.hafiz .modal.detail-modal .modal-content .modal-header {
+html.hafiz .modal.detail-modal .modal-content .modal-header {
     background-color: #525252;
 }
 
-html.ng-scope.hafiz .card-comment .card-item .card-item-body {
+html.hafiz .card-comment .card-item .card-item-body {
     background-color: #525252;
     color: #fefefe;
     border: none;
 }
 
-html.ng-scope.hafiz .comment-form.logged-in {
+html.hafiz .comment-form.logged-in {
     background-color: #525252;
     color: #fefefe;
     border: 1px solid #656464;
 }
 
-html.ng-scope.hafiz .nav-tabs>li.active>a,
-html.ng-scope.hafiz .nav-tabs>li.active>a:hover,
-html.ng-scope.hafiz .nav-tabs>li.active>a:focus {
+html.hafiz .nav-tabs>li.active>a,
+html.hafiz .nav-tabs>li.active>a:hover,
+html.hafiz .nav-tabs>li.active>a:focus {
     color: #fefefe;
     background-color: #676666;
     border: 1px solid #656464;
 }
 
-html.ng-scope.hafiz .comment-form .footer {
+html.hafiz .comment-form .footer {
     background-color: #525252;
 }
 
-html.ng-scope.hafiz .comment-form .tab-content {
+html.hafiz .comment-form .tab-content {
     background-color: #525252;
 }
 
-html.ng-scope.hafiz .comment-form .tab-content textarea {
+html.hafiz .comment-form .tab-content textarea {
     background-color: #525252;
     color: #fefefe;
 }
 
-html.ng-scope.hafiz .nav-tabs {
+html.hafiz .nav-tabs {
     border-bottom: 1px solid #a2a2a2;
     margin-bottom: 10px;
 }
 
-html.ng-scope.hafiz .card-comment .card-item .card-item-header {
+html.hafiz .card-comment .card-item .card-item-header {
     background-color: #a7a6a6;
     border: 1px solid #7b7b7b;
     color: #fefefe;
 }
 
-html.ng-scope.hafiz .comment-label {
+html.hafiz .comment-label {
     color: #f3f3f3;
 }
 
-html.ng-scope.hafiz .card-comment .card-item .card-item-header:after {
+html.hafiz .card-comment .card-item .card-item-header:after {
     border-right-color: #a7a6a6;
 }
 
-html.ng-scope.hafiz .card-comment .card-item a:link,
-html.ng-scope.hafiz .card-comment .card-item a:visited {
+html.hafiz .card-comment .card-item a:link,
+html.hafiz .card-comment .card-item a:visited {
     color: #fff;
 }
 
-html.ng-scope.hafiz code,
-html.ng-scope.hafiz pre {
+html.hafiz code,
+html.hafiz pre {
     color: #d3d2d2;
     background-color: #343434;
 }
