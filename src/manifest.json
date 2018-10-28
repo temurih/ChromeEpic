@@ -15,6 +15,8 @@
         "storage"
     ],
 
+    "web_accessible_resources": ["content/waffleStyle.css"],
+
     "content_scripts": [
         {
             "matches": ["<all_urls>"],
@@ -32,6 +34,7 @@
                 "https://*.waffle.io/*",
                 "http://*.waffle.io/*"
             ],
+            "css": ["content/waffleStyle.css"],
             "js": ["content/waffleScript.js"]
         }
     ],
