@@ -28,8 +28,8 @@ html.ng-scope.hafiz .comment-form.logged-in {
 }
 
 html.ng-scope.hafiz .nav-tabs>li.active>a,
-.nav-tabs>li.active>a:hover,
-.nav-tabs>li.active>a:focus {
+html.ng-scope.hafiz .nav-tabs>li.active>a:hover,
+html.ng-scope.hafiz .nav-tabs>li.active>a:focus {
     color: #fefefe;
     background-color: #676666;
     border: 1px solid #656464;
@@ -67,11 +67,13 @@ html.ng-scope.hafiz .card-comment .card-item .card-item-header:after {
     border-right-color: #a7a6a6;
 }
 
-html.ng-scope.hafiz .card-comment .card-item a:link, .card-comment .card-item a:visited {
-    color: #fff !important;
+html.ng-scope.hafiz .card-comment .card-item a:link,
+html.ng-scope.hafiz .card-comment .card-item a:visited {
+    color: #fff;
 }
 
-html.ng-scope.hafiz code {
+html.ng-scope.hafiz code,
+html.ng-scope.hafiz pre {
     color: #d3d2d2;
     background-color: #343434;
 }
