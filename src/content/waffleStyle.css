@@ -79,6 +79,9 @@ html.hafiz .card-comment .card-item a:visited {
     color: #fff;
 }
 
+html.hafiz .modal.detail-modal .modal-content .modal-header a:active,
+html.hafiz .modal.detail-modal .modal-content .modal-header a:focus,
+html.hafiz .modal.detail-modal .modal-content .modal-header a:hover,
 html.hafiz a,
 html.hafiz a:hover,
 html.hafiz a:focus {
