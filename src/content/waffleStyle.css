@@ -80,7 +80,7 @@ html.hafiz .card-comment .card-item a:visited {
 html.hafiz a,
 html.hafiz a:hover,
 html.hafiz a:focus {
-    color: #d5d5d5 !important;
+    color: #d5d5d5;
     font-weight: bold;
 }
 
