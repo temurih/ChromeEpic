@@ -43,8 +43,10 @@ html.hafiz .comment-form .tab-content {
     background-color: #525252;
 }
 
-html.hafiz .card-comment .card-item .card-item-body textarea:focus {
-    border-color: #0091ff;    
+html.hafiz .modal.detail-modal .comment-form .dropzone:focus,
+html.hafiz .card-comment .card-item .card-item-body textarea:focus,
+html.hafiz .board .card .card-body textarea.title:focus {
+    border-color: #2c79b4;    
 }
 
 html.hafiz .modal.detail-modal .card-item-body .dropzone,
