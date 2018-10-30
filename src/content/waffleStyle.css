@@ -72,6 +72,28 @@ html.hafiz .card-comment .card-item a:visited {
     color: #fff;
 }
 
+html.hafiz a,
+html.hafiz a:hover,
+html.hafiz a:focus {
+    color: #d5d5d5 !important;
+    font-weight: bold;
+}
+
+html.hafiz .modal.detail-modal .modal-content .modal-body .description-btn-ct {
+    background: #343434;
+}
+
+html.hafiz .comment-form .img-help-text .upload-link,
+html.hafiz .modal.detail-modal .modal-content .modal-body .description-btn,
+html.hafiz .modal.detail-modal .card-item-body .img-help-text .upload-link,
+html.hafiz .modal.detail-modal .comment-form .img-help-text .upload-link {
+    color: #d5d5d5;
+}
+
+html.hafiz .modal.detail-modal .modal-content .modal-body .description-btn:hover {
+    border-color: #d5d5d5;
+}
+
 html.hafiz code,
 html.hafiz pre {
     color: #d3d2d2;
