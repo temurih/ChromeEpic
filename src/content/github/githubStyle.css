@@ -1,0 +1,136 @@
+html.hafiz .repohead.experiment-repo-nav {
+    background-color: #3a3a3a;
+}
+
+html.hafiz body {
+    background-color: #343434;
+    color: #fefefe;
+}
+
+html.hafiz .file-wrap,
+html.hafiz .Box,
+html.hafiz .Box-row {
+    border: 1px solid #aeb1b6;
+}
+
+html.hafiz .table-list-header,
+html.hafiz .commit-tease,
+html.hafiz .Box-header {
+    background-color: #8a8a8a;
+    color: #fefefe;
+}
+
+html.hafiz .repohead h1 .octicon {
+    color: #959da5;
+}
+
+html.hafiz .reponav-item.selected {
+    background-color: #505050;
+    border-color: #9f4100 #949494 transparent;
+    color: #959da5;
+}
+
+html.hafiz table.files,
+html.hafiz .Box-body {
+    background-color: #525252;
+    color: #fefefe;
+}
+
+@media (min-width: 1012px) {
+    html.hafiz .pagehead {
+        border-bottom: 1px solid #aeb1b6;
+    }
+}
+
+html.hafiz .topic-tag {
+    background-color: #808080;
+}
+
+html.hafiz .topic-tag-link:hover {
+    background-color: #909090;
+}
+
+html.hafiz table.files td {
+    border-top: 1px solid #808080;
+}
+
+html.hafiz table.files tr.navigation-focus td,
+html.hafiz table.files tr[aria-selected=true] td {
+    background-color: #3c4c5c;
+}
+
+html.hafiz .markdown-body img {
+    background-color: #525252;
+}
+
+html.hafiz .link-gray-dark,
+html.hafiz .commit-desc pre,
+html.hafiz .text-gray-dark,
+html.hafiz .text-gray {
+    color: #fefefe !important;
+}
+
+html.hafiz .reponav-item .octicon,
+html.hafiz table.files td.icon > *,
+html.hafiz .numbers-summary .octicon {
+    color: #ccc;
+}
+
+html.hafiz .reponav-item .Counter,
+html.hafiz .Label--outline {
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    color: #cacaca;
+}
+
+html.hafiz table.files td .simplified-path,
+html.hafiz table.files td.message a,
+html.hafiz table.files td.message,
+html.hafiz table.files td.age,
+html.hafiz .repository-lang-stats ol.repository-lang-stats-numbers li>a,
+html.hafiz .repository-lang-stats ol.repository-lang-stats-numbers li>span,
+html.hafiz .repository-lang-stats ol.repository-lang-stats-numbers li .lang,
+html.hafiz .text-emphasized,
+html.hafiz .numbers-summary a {
+    color: #fefefe;
+}
+
+html.hafiz .link-gray-dark:hover,
+html.hafiz .link-hover-blue:hover,
+html.hafiz .reponav-item:focus,
+html.hafiz .reponav-item:hover,
+html.hafiz table.files td.message a:hover,
+html.hafiz .numbers-summary a:hover {
+    color: #e7e7e7;
+}
+
+html.hafiz .table-list-header-toggle .btn-link:hover
+html.hafiz .table-list-header-toggle .btn-link.selected,
+html.hafiz .table-list-header-toggle .btn-link.selected:hover
+html.hafiz .table-list-header-toggle .btn-link,
+html.hafiz a {
+    color: #fff !important;
+}
+
+html.hafiz .social-count {
+    background-color: #808c94;
+}
+
+html.hafiz .social-count:hover {
+    color: #fefefe;
+}
+
+html.hafiz .btn {
+    background-color: #808c94;
+    background-image: linear-gradient(-180deg,#9c9c9c,#636363 90%);
+    color: #fefefe;
+}
+
+/* PR Page */
+
+html.hafiz .muted-link {
+    color: #bababa!important;
+}
+
+html.hafiz .Box-row--focus-gray.navigation-focus {
+    background-color: #464646;
+}

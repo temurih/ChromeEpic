@@ -1,3 +1,8 @@
+window.onload = () => {
+    console.log("Hello Github");
+    var html = document.getElementsByTagName("html");
+    html[0].classList.add("hafiz");
+};
 
 chrome.runtime.onMessage.addListener(msg => {
     const isFileMatches = (title) => {

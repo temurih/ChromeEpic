@@ -15,7 +15,10 @@
         "storage"
     ],
 
-    "web_accessible_resources": ["content/waffleStyle.css"],
+    "web_accessible_resources": [
+        "content/waffle/waffleStyle.css",
+        "content/github/githubStyle.css"
+    ],
 
     "content_scripts": [
         {
@@ -27,15 +30,15 @@
                 "https://*.github.com/*",
                 "http://*.github.com/*"
             ],
-            "js": ["content/githubScript.js"]
+            "js": ["content/github/githubScript.js"]
         },
         {
             "matches": [
                 "https://*.waffle.io/*",
                 "http://*.waffle.io/*"
             ],
-            "css": ["content/waffleStyle.css"],
-            "js": ["content/waffleScript.js"]
+            "css": ["content/waffle/waffleStyle.css"],
+            "js": ["content/waffle/waffleScript.js"]
         }
     ],
 
