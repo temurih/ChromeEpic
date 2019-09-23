@@ -94,6 +94,8 @@ html.hafiz .numbers-summary a {
     color: #fefefe;
 }
 
+html.hafiz .table-list-header-toggle .btn-link.selected:hover,
+html.hafiz .table-list-header-toggle .btn-link:hover,
 html.hafiz .link-gray-dark:hover,
 html.hafiz .link-hover-blue:hover,
 html.hafiz .reponav-item:focus,
@@ -103,12 +105,10 @@ html.hafiz .numbers-summary a:hover {
     color: #e7e7e7;
 }
 
-html.hafiz .table-list-header-toggle .btn-link:hover
 html.hafiz .table-list-header-toggle .btn-link.selected,
-html.hafiz .table-list-header-toggle .btn-link.selected:hover
 html.hafiz .table-list-header-toggle .btn-link,
 html.hafiz a {
-    color: #fff !important;
+    color: #fff;
 }
 
 html.hafiz .social-count {
